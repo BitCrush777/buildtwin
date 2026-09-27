@@ -1,0 +1,8 @@
+{
+  "name": "node-npm-service",
+  "version": "1.0.0",
+  "description": "Generic Node.js Microservice for BuildTwin Testing",
+  "scripts": {
+    "test": "node --test"
+  }
+}

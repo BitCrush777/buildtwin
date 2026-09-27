@@ -1,0 +1,7 @@
+[project]
+name = "python-pytest-auth"
+version = "0.1.0"
+description = "Generic Python Authentication Service for BuildTwin"
+
+[tool.pytest.ini_options]
+testpaths = ["."]

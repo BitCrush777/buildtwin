@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "buildtwin": {
+      "command": "node",
+      "args": ["mcp/server.js"],
+      "description": "BuildTwin Pre-Production Software Simulation and Verification Server"
+    }
+  }
+}

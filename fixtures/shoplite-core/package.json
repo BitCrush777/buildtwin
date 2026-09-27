@@ -1,0 +1,8 @@
+{
+  "name": "shoplite-core",
+  "version": "1.0.0",
+  "description": "ShopLite Core Demo Service for BuildTwin",
+  "scripts": {
+    "test": "node --test"
+  }
+}
